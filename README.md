@@ -8,6 +8,7 @@ Download 4 files from here:
 if you get an error from mnist.py
 
 =============================================================================================================
+
 DOIT.py: This file runs the neural network training process.
 
 functions.py: Contains utility functions for building layers.
@@ -24,4 +25,5 @@ optimizer.py: Implements optimization functions for parameter updates.
 trainer.py: Provides a class that automates the neural network training process.
 
 =============================================================================================================
+
 reference : '밑바닥부터 시작하는 딥러닝'
