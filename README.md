@@ -7,23 +7,23 @@ Download 4 files from here:
 
 if you get an error from mnist.py
 
-==========================================================
+==========================================================  
 
-DOIT.py: This file runs the neural network training process.
+DOIT.py: This file runs the neural network training process.  
 
-functions.py: Contains utility functions for building layers.
-  - sigmoid, softmax, im2col & col2im (functions to facilitate convolution operations).
+functions.py: Contains utility functions for building layers.  
+  - sigmoid, softmax, im2col & col2im (functions to facilitate convolution operations).  
 
-layers.py: Defines classes for layers used in neural network implementation.
-  - Includes classes like Convolution, ReLU, Affine, SoftmaxWithLoss, Pooling, and numerical_gradient function.
-  - Also contains the implementation of a sample neural network, `SimpleConvNet`.
+layers.py: Defines classes for layers used in neural network implementation.  
+  - Includes classes like Convolution, ReLU, Affine, SoftmaxWithLoss, Pooling, and numerical_gradient function.  
+  - Also contains the implementation of a sample neural network, `SimpleConvNet`.  
 
-mnist.py: Code for downloading and preparing the MNIST dataset.
+mnist.py: Code for downloading and preparing the MNIST dataset.  
 
-optimizer.py: Implements optimization functions for parameter updates.
+optimizer.py: Implements optimization functions for parameter updates.  
 
-trainer.py: Provides a class that automates the neural network training process.
+trainer.py: Provides a class that automates the neural network training process.  
 
-==========================================================
+==========================================================  
 
 reference : '밑바닥부터 시작하는 딥러닝'
